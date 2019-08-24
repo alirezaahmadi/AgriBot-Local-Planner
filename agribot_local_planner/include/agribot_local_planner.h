@@ -1,4 +1,9 @@
-
+/*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% by: Alireza Ahmadi                                     %
+% University of Bonn- MSc Robotics & Geodetic Engineering%
+% Alireza.Ahmadi@uni-bonn.de                             %
+% AlirezaAhmadi.xyz                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*/
 
 #ifndef ATTRACTOR_GUIDED_NAVIGATION_AGRIBOT_LOCAL_PLANNER_H_
 #define ATTRACTOR_GUIDED_NAVIGATION_AGRIBOT_LOCAL_PLANNER_H_

@@ -75,3 +75,12 @@ newly tuned accordingly to the robot and task taken into account. To this end,
 controller parameters have been defined as dynamic parameters and can be tuned
 using `dynamic_reconfigure`.
 
+--- 
+ by: Alireza Ahmadi                                     
+ University of Bonn- Robotics & Geodetic Engineering
+ 
+ Alireza.Ahmadi@uni-bonn.de                             
+ [www.AliezaAhmadi.xyz](https://www.AlirezaAhmadi.xyz)
+
+
+
