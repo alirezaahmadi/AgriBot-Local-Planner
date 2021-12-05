@@ -5,8 +5,8 @@ ROS Local Planner - using DWA &amp; PID control ideas to work with move_based an
 
 <div align="center">
 	
-[https://i.ytimg.com/vi/xCAXH3JesxI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFFxCfnfzCYNFxZ7B5xpcuLslKcA](https://www.youtube.com/watch?time_continue=1&v=xCAXH3JesxI "AgriBot-Local Planner Package Demo")
-
+[![https://i.ytimg.com/vi/xCAXH3JesxI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFFxCfnfzCYNFxZ7B5xpcuLslKcA)](https://www.youtube.com/watch?v=xCAXH3JesxI&t=22s)
+	
 </div>
 
 ### About the *agribot_local_planner* package
