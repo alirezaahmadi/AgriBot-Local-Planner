@@ -3,7 +3,11 @@ ROS Local Planner - using DWA &amp; PID control ideas to work with move_based an
 
 ---
 
-[![AgriBot-Local Planner Package Demo](http://img.youtube.com/vi/xCAXH3JesxI/0.jpg)](https://www.youtube.com/watch?time_continue=1&v=xCAXH3JesxI "AgriBot-Local Planner Package Demo")
+<div align="center">
+	
+[https://i.ytimg.com/vi/xCAXH3JesxI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFFxCfnfzCYNFxZ7B5xpcuLslKcA](https://www.youtube.com/watch?time_continue=1&v=xCAXH3JesxI "AgriBot-Local Planner Package Demo")
+
+</div>
 
 ### About the *agribot_local_planner* package
 The process of determining speed and steering of the robot at each epoch of time in order to navigate the robot through a given trajectory is called trajectory or path tracking. A path consists of a set of consecutive poses in a planned way. As mentioned earlier, global planner generates the main path and local planner performs some actions to drive the robot to the goals or points specified on trajectory. 
