@@ -99,7 +99,6 @@ using `dynamic_reconfigure`.
  University of Bonn- Robotics & Geodetic Engineering
  
  Alireza.Ahmadi@uni-bonn.de                             
- [www.AliezaAhmadi.xyz](https://www.AlirezaAhmadi.xyz)
 
 
 
